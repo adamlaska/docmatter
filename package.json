@@ -112,7 +112,7 @@
     "coffeescript": "^2.5.1",
     "kava": "^5.14.0",
     "projectz": "^2.21.0",
-    "valid-directory": "^3.7.0",
+    "valid-directory": "^3.9.0",
     "yamljs": "^0.3.0"
   },
   "scripts": {

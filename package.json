@@ -106,7 +106,7 @@
   "type": "commonjs",
   "main": "edition-esnext/index.js",
   "devDependencies": {
-    "@bevry/update-contributors": "^1.19.0",
+    "@bevry/update-contributors": "^1.21.0",
     "assert-helpers": "^8.4.0",
     "coffeelint": "^2.1.0",
     "coffeescript": "^2.5.1",

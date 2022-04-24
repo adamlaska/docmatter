@@ -111,7 +111,7 @@
     "coffeelint": "^2.1.0",
     "coffeescript": "^2.5.1",
     "kava": "^5.14.0",
-    "projectz": "^2.21.0",
+    "projectz": "^2.22.0",
     "valid-directory": "^3.7.0",
     "yamljs": "^0.3.0"
   },
